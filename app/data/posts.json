@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "title": "Exploring the Great Outdoors",
+      "date": "2024-03-15",
+      "excerpt": "Discover the beauty and excitement of outdoor adventures. From hiking to camping, there's so much to explore."
+    },
+    {
+      "id": "2",
+      "title": "The Future of Technology",
+      "date": "2024-03-18",
+      "excerpt": "Dive into the advancements in technology that are shaping our future. From AI to space travel, the possibilities are endless."
+    },
+    {
+      "id": "3",
+      "title": "Cooking with Seasonal Ingredients",
+      "date": "2024-03-20",
+      "excerpt": "Learn how to make delicious meals using fresh, seasonal ingredients. Cooking with what's in season brings out the best flavors."
+    },
+    {
+      "id": "4",
+      "title": "The Art of Minimalism",
+      "date": "2024-03-22",
+      "excerpt": "Minimalism isn't just a design principle. It's a way of life. Discover how simplifying your life can bring more joy and fulfillment."
+    },
+    {
+      "id": "5",
+      "title": "Traveling on a Budget",
+      "date": "2024-03-25",
+      "excerpt": "Explore the world without breaking the bank. Get tips and tricks for traveling affordably and making the most of your journeys."
+    }
+  ]
+  
